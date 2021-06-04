@@ -1,0 +1,5 @@
+Please create the target directory from the chinese handwrite font dataset.
+
+https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset
+
+Follow the instructions in the above github to extra all directories from four zip files and put them into the target/ directory.
